@@ -25,6 +25,6 @@ AuthUser=username@gmail.com
 AuthPass=password
 ```
 - Configure the script
-#^ - replace all the place holders with your wanted data
+<br> - replace all the place holders with your wanted data
 # How To Use:
 - Just Run ./error_reporter.sh and happy debugging
